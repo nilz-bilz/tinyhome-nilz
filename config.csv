@@ -1,0 +1,51 @@
+Element, Name, Icon, Url
+heading, Nilz Dashboard, terminal, -
+,,,
+section,Search,search,-
+item,Brave Search,,https://search.brave.com/
+item,SearxNG,,https://search.nihalatwal.in/
+item,kgrep,,https://kgrep.com/
+,,,
+section, News,newspaper, -
+item, Brutalist Report,report, https://brutalist.report
+item,Feeder,rss,https://feeder.co/reader
+item,Hacker News,Hacker-news-square,https://news.ycombinator.com/
+,,,
+section, Lab, flask, -
+item, Github, github, https://github.com/
+item, Proxmox, server, https://10.0.1.123:8006
+item, Kasm, dumpster-fire, https://kasm.nihalatwal.com
+item,Coolify,dashbord,http://10.0.0.119:8000/login
+,,,
+section, Network, network-wired, -
+item, Tailscale, shield, https://login.tailscale.com/admin/machines
+item, Cloudflare, cloud-upload-alt, https://cloudflare.com
+item, NextDNS, globe, https://my.nextdns.io/
+,,,
+section, Hosting, cloud, -
+item, Netlify,website,https://app.netlify.com/
+item,Backblaze,save,https://secure.backblaze.com/b2_buckets.htm
+item,Oracle Cloud,database,https://cloud.oracle.com/?region=ap-mumbai-1
+item,Linode,linode,https://cloud.linode.com/linodes
+item,AWS,aws,https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1#
+item,GCP,Google-drive,https://console.cloud.google.com/
+,,,
+section,Hacking,hacking,https://github.com/CSIRT-MU/edu-resources
+item,TryHackMe,,https://tryhackme.com/r/dashboard
+item,pwn college,,https://pwn.college/
+item,Cyber Chef,Hat-chef,https://gchq.github.io/CyberChef/
+item,OverTheWire,,https://overthewire.org/wargames/
+,,,
+section,Learning,Graduation-cap,-
+item,Coursera,,https://www.coursera.org/
+item,Udemy,,https://www.udemy.com/
+item,ITProTV,,https://app.acilearning.com/dashboard
+item,FreeCodeCamp,,https://www.freecodecamp.org/
+item,ExamPro,,https://app.exampro.co/student/catalog/dashboard
+,,,
+section,AI,brain,-
+item,ChatGPT,,https://chatgpt.com
+item,ithy,,https://ithy.com
+item,MetaAI,,https://meta.AI
+item,Gemini,,https://gemini.google.com
+item,Claude,,https://claude.ai
