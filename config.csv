@@ -6,10 +6,11 @@ item,Brave Search,,https://search.brave.com/
 item,SearxNG,,https://search.nihalatwal.in/
 item,kgrep,,https://kgrep.com/
 ,,,
-section, News,newspaper, -
-item, Brutalist Report,report, https://brutalist.report
+section, Reading,newspaper, -
+item, Brutalist Report,file, https://brutalist.report
 item,Feeder,rss,https://feeder.co/reader
-item,Hacker News,Hacker-news-square,https://news.ycombinator.com/
+item,Hacker News,hacker-news,https://news.ycombinator.com/
+item,InstaPaper,archive,https://instapaper.com
 ,,,
 section, Lab, flask, -
 item, Github, github, https://github.com/
@@ -30,13 +31,13 @@ item,Linode,linode,https://cloud.linode.com/linodes
 item,AWS,aws,https://ap-south-1.console.aws.amazon.com/console/home?region=ap-south-1#
 item,GCP,Google-drive,https://console.cloud.google.com/
 ,,,
-section,Hacking,hacking,https://github.com/CSIRT-MU/edu-resources
+section,Hacking,terminal,https://github.com/CSIRT-MU/edu-resources
 item,TryHackMe,,https://tryhackme.com/r/dashboard
 item,pwn college,,https://pwn.college/
-item,Cyber Chef,Hat-chef,https://gchq.github.io/CyberChef/
+item,Cyber Chef,hat-chef,https://gchq.github.io/CyberChef/
 item,OverTheWire,,https://overthewire.org/wargames/
 ,,,
-section,Learning,Graduation-cap,-
+section,Learning,graduation-cap,-
 item,Coursera,,https://www.coursera.org/
 item,Udemy,,https://www.udemy.com/
 item,ITProTV,,https://app.acilearning.com/dashboard
